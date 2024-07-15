@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Profile_Screen_Task</string>
+    <string name="previous_screen">Previous Screen</string>
+    <string name="name">Mariam El-Sheikh</string>
+    <string name="age">24 years old</string>
+    <string name="mail">elsheikhmariam@gmail.com</string>
+    <string name="job">Software Engineer</string>
+</resources>
